@@ -1,0 +1,18 @@
+{
+  "name": "yasyslog",
+  "version": "0.0.1",
+  "description": "yet another syslog",
+  "main": "./lib/node-yasyslog",
+  "scripts": {
+    "test": "node_modules/.bin/buster test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hungryblank/yasyslog.git"
+  },
+  "author": "Paolo Negri <hungryblank@gmail.com>",
+  "contributors": [],
+  "devDependencies": {
+    "buster": "~0.6.2"
+  }
+}
