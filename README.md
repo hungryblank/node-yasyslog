@@ -35,5 +35,5 @@ clientSeven.rawLog(syslog.SEVERITIES.LOG_CRIT, 'critical condition');
 ## Credits
 
 This project uses code from
-- https://github.com/cloudhead/node-syslog from @cloudhead
-- https://github.com/cboebel/NodeSyslogUDP from @cboebel
+- https://github.com/cloudhead/node-syslog
+- https://github.com/cboebel/NodeSyslogUDP
