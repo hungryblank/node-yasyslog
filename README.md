@@ -20,7 +20,7 @@ client.info('this is an info level log entry');
 
 // sample with some custom configuration
 var clientSeven = new syslog.Client({
-  host: 192.168.0.1,
+  host: '192.168.0.1',
   port: 5541,
   facility: syslog.FACILITIES.LOG_LOCAL7
 })
