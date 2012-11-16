@@ -4,8 +4,10 @@ Node module to work with system log `syslog` daemon on unix systems.
 
 At the moment only the UDP transport is implemented
 
-## Motivation
+## Build Status
+[![Build Status](https://secure.travis-ci.org/hungryblank/node-yasyslog.png)](http://travis-ci.org/hungryblank/node-yasyslog)
 
+## Motivation
 Have a pure node syslog module with no native extensions
 
 ## Usage
