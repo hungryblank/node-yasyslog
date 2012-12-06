@@ -10,6 +10,10 @@
     "type": "git",
     "url": "git://github.com/hungryblank/yasyslog.git"
   },
+  "keywords": [
+    "syslog",
+    "udp"
+  ],
   "author": "Paolo Negri <hungryblank@gmail.com>",
   "contributors": [],
   "devDependencies": {
